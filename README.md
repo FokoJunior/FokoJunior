@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm FOKO JUNIOR 😎😎</h1>
-<h3 align="center">Je suis un developpeur fullstack base au Cameroun</h3>
+<h1 align="center">Hi 👋, I'm Foko Junior 😎😎</h1>
+<h3 align="center">Jsuis Foko Junior développeur full-stack junior. Mon parcours m'a permis de développer des compétences solides tant en front-end qu'en back-end./h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fokojunior&label=Profile%20views&color=0e75b6&style=flat" alt="fokojunior" /> </p>
 
