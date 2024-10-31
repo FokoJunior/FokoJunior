@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Foko Junior 😎😎</h1>
-<h3 align="center">Jsuis Foko Junior développeur full-stack junior. Mon parcours m'a permis de développer des compétences solides tant en front-end qu'en back-end./h3>
+<h1 align="center">👋 Hey, moi c’est Foko Junior ! 😎😎</h1>
+<h3 align="center">Je suis développeur full-stack junior et étudiant en génie logiciel, avec une passion pour l’intelligence artificielle. J’aime développer des solutions innovantes qui mêlent technologie et créativité ! 🌐🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fokojunior&label=Profile%20views&color=0e75b6&style=flat" alt="fokojunior" /> </p>
 
@@ -7,17 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/f_junior_2022" target="blank"><img src="https://img.shields.io/twitter/follow/f_junior_2022?logo=twitter&style=for-the-badge" alt="f_junior_2022" /></a> </p>
 
-- 🔭 I’m currently working on [Syndatech](Syndatech.com)
 
-- 🌱 I’m currently learning **Cisco, Cisco Certified Network Associate (CCNA)**
+ 💼 Projets et activités :
 
-- 👯 I’m looking to collaborate on **gestion de stock**
-
-- 🤝 I’m looking for help with **Gestion bibliotechques**
-
-- 📫 How to reach me **benitojunior2022@gmail.com**
-
-- ⚡ Fun fact **Je pense que je suis drôle 😹😹**
+  - 🔭 Projet actuel : Plateforme de gestion complet d'un etablissement, un projet ambitieux qui va changer la donne ! 💻
+  - 🌱 En train d’apprendre : Cisco, pour la certification CCNA, histoire de maîtriser les réseaux en plus de l'IA. 📡
+  - 👯 Toujours partant pour : Travailler sur des projets complexe et passionnant📦 et découvrir de nouvelles technologies en IA.
+  - 🤝 À la recherche d’aide pour : Un projet de creation d'une application de Préservation des Langues en Voie de Disparitione , parce que même les livres méritent une organisation high-tech ! 📚
+  -       <p>Idée : Une application qui utilise l’IA pour apprendre, pratiquer, et partager des langues en voie de disparition.</p>
+  -       <p> En enregistrant les voix de locuteurs natifs, en analysant et en enseignant des expressions linguistiques, cette application permettrait de sauvegarder et de transmettre le patrimoine linguistique.</p>
+            <p> Impact : Préserver les langues et les cultures menacées, et encourager la diversité linguistique.</p>
+  - 
+📫 Me contacter :
+Email : benitojunior2022@gmail.com
+(Dispo pour discuter IA, dev, ou même échanger des mèmes) 😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
