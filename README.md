@@ -14,9 +14,9 @@
   - 🌱 En train d’apprendre : Cisco, pour la certification CCNA, histoire de maîtriser les réseaux en plus de l'IA. 📡
   - 👯 Toujours partant pour : Travailler sur des projets complexe et passionnant📦 et découvrir de nouvelles technologies en IA. <br><br>
   
-  - 🤝 À la recherche d’aide pour : Un projet de creation d'une application de Préservation des Langues en Voie de Disparitione , parce que même les livres méritent une organisation high-tech ! 📚<br><br>
+  - 🤝 À la recherche d’aide pour : Un projet de creation d'une application de Préservation des Langues en Voie de Disparitione ! 📚<br>
         <p> Idée : Une application qui utilise l’IA pour apprendre, pratiquer, et partager des langues en voie de disparition.<br><br>
-           En enregistrant les voix de locuteurs natifs, en analysant et en enseignant des expressions linguistiques, cette application permettrait de sauvegarder et de transmettre le patrimoine linguistique.<br>
+           En enregistrant les voix de locuteurs natifs, en analysant et en enseignant des expressions linguistiques, cette application permettrait de sauvegarder et de transmettre le patrimoine linguistique.<br><br>
              Impact : Préserver les langues et les cultures menacées, et encourager la diversité linguistique.</p>
     
 📫 Me contacter :
