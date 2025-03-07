@@ -41,7 +41,7 @@ Email : benitojunior2022@gmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fokojunior&show_icons=true&locale=en" alt="fokojunior" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fokojunior&" alt="fokojunior" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fokojunior&" alt="fokojunior" /></p> -->
 
 <img
     alt="github contribution grid snake animation"
