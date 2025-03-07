@@ -2,6 +2,7 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"
   />
+  
 **👨‍💻Qui suis-je ?**
 <h1 align="center">👋 Hey, moi c’est Foko Junior ! 😎😎</h1>
 
