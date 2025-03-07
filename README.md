@@ -125,6 +125,7 @@
 <h3 align="left">Statistiques Github:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fokojunior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=fr&hide_border=false&order=1" height="150" alt="stats graph"  />
+  ![](https://nirzak-streak-stats.vercel.app/?user=fokojunior&theme=dark&hide_border=false)<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fokojunior&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
