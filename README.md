@@ -70,11 +70,11 @@
   />
   
   
-
+<!-- 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=fokojunior&theme=discord&column=6&row=2&margin-w=21&margin-h=6&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fokojunior&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 ###
 --
