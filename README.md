@@ -1,3 +1,8 @@
+<img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"
+  />
+
 <h1 align="center">👋 Hey, moi c’est Foko Junior ! 😎😎</h1>
 <h3 align="center">Je suis développeur full-stack junior et étudiant en génie logiciel, avec une passion pour l’intelligence artificielle. J’aime développer des solutions innovantes qui mêlent technologie et créativité ! 🌐🤖</h3>
 
@@ -7,21 +12,35 @@
 
 <p align="left"> <a href="https://twitter.com/f_junior_2022" target="blank"><img src="https://img.shields.io/twitter/follow/f_junior_2022?logo=twitter&style=for-the-badge" alt="f_junior_2022" /></a> </p>
 
+💼 **Projets et Activités**  
 
- 💼 Projets et activités :
+- 🔭 **Projet Actuel** : Développement d’une **application mobile de mise en relation entre babysitters et parents au Cameroun** 📱👶  
+  * **Objectif** : Faciliter la recherche de babysitters qualifiés et offrir aux parents une plateforme sécurisée pour trouver rapidement des services de garde d’enfants.  
+  * **Fonctionnalités** : Profils vérifiés, réservation en ligne, messagerie intégrée et système d’avis pour garantir la qualité du service.  
 
-  - 🔭 Projet actuel : Plateforme de gestion complet d'un etablissement, un projet ambitieux qui va changer la donne ! 💻
-  - 🌱 En train d’apprendre : Cisco, pour la certification CCNA, histoire de maîtriser les réseaux en plus de l'IA. 📡
-  - 👯 Toujours partant pour : Travailler sur des projets complexe et passionnant📦 et découvrir de nouvelles technologies. <br><br>
-  
-  - 🤝 À la recherche d’aide pour : Un projet de creation d'une application de Préservation des Langues en Voie de Disparitione ! 📚<br>
-       * <p> Idée : Une application qui utilise l’IA pour apprendre, pratiquer, et partager des langues en voie de disparition.<br><br>
-           En enregistrant les voix de locuteurs natifs, en analysant et en enseignant des expressions linguistiques, cette application permettrait de sauvegarder et de transmettre le patrimoine linguistique.<br><br>
-       * Impact : Préserver les langues et les cultures menacées, et encourager la diversité linguistique.</p> <br>
-    
-📫 Me contacter :
-Email : benitojunior2022@gmail.com
-(Dispo pour discuter IA, dev, ou même échanger des mèmes) 😅
+### 🚀 **Autres Projets en cours et idées innovantes**  
+
+- **📚 Plateforme de Gestion Complète d’un Établissement**  
+  * **Idée** : Une solution numérique pour le suivi des élèves, la communication entre parents et enseignants, la gestion des notes et l’assiduité.  
+  * **Impact** : Digitaliser la gestion scolaire et améliorer l’interaction entre tous les acteurs éducatifs.  
+
+- **🗣️ Application de Préservation des Langues en Voie de Disparition**  
+  * **Idée** : Une application utilisant l’**IA** pour apprendre, pratiquer et partager des langues menacées.  
+  * **Fonctionnalités** : Enregistrement des voix de locuteurs natifs, analyse linguistique et apprentissage interactif.  
+  * **Impact** : Sauvegarder le patrimoine linguistique et encourager la diversité culturelle.  
+
+- **🔥 Système de Mesure et Gestion Intelligente des Bouteilles de Gaz**  
+  * **Idée** : Un dispositif connecté mesurant la quantité de gaz restante et envoyant des alertes via **Bluetooth ou Wi-Fi**.  
+  * **Objectif** : Prévenir les pénuries et renforcer la sécurité domestique.  
+
+- **📡 Apprentissage en cours : Certification Cisco CCNA**  
+  * Développement de compétences en **réseaux et sécurité** pour compléter mes connaissances en développement et en gestion de systèmes.  
+
+- **👯 Toujours partant pour** : Travailler sur des **projets complexes et innovants** en **full-stack, gestion de réseaux, IA, ou domotique**. 🚀💻  
+
+📫 **Me Contacter** :  
+✉️ Email : **benitojunior2022@gmail.com**  
+(Dispo pour discuter **IA, développement, réseaux, startups**… ou même échanger des **mèmes** 😂)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,10 +67,7 @@ Email : benitojunior2022@gmail.com
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"
-  />
+  
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=fokojunior&theme=discord&column=6&row=2&margin-w=21&margin-h=6&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
