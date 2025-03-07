@@ -66,3 +66,11 @@ Email : benitojunior2022@gmail.com
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/benito junior">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=benito%20junior&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
