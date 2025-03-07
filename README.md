@@ -2,9 +2,11 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"
   />
-
+**👨‍💻Qui suis-je ?**
 <h1 align="center">👋 Hey, moi c’est Foko Junior ! 😎😎</h1>
-<h3 align="center">Je suis développeur full-stack junior et étudiant en génie logiciel, avec une passion pour l’intelligence artificielle. J’aime développer des solutions innovantes qui mêlent technologie et créativité ! 🌐🤖</h3>
+
+
+- Je suis développeur full-stack junior et étudiant en génie logiciel, avec une passion pour l’intelligence artificielle. J’aime développer des solutions innovantes qui mêlent technologie et créativité ! 🌐🤖
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fokojunior&label=Profile%20views&color=0e75b6&style=flat" alt="fokojunior" /> </p>
 
