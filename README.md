@@ -14,8 +14,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fokojunior&label=Profile%20views&color=0e75b6&style=flat" alt="fokojunior" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fokojunior" alt="fokojunior" /></a> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=fokojunior&theme=dracula&column=-1&row=1&margin-w=9&margin-h=9&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
 
 💼 **Projets et Activités**  
 
