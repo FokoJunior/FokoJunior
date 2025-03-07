@@ -23,20 +23,14 @@
 ### 🚀 **Autres Projets en cours et idées innovantes**  
 
 - **📚 Plateforme de Gestion Complète d’un Établissement**  
-  * **Idée** : Une solution numérique pour le suivi des élèves, la communication entre parents et enseignants, la gestion des notes et l’assiduité.  
-  * **Impact** : Digitaliser la gestion scolaire et améliorer l’interaction entre tous les acteurs éducatifs.  
+ 
 
 - **🗣️ Application de Préservation des Langues en Voie de Disparition**  
-  * **Idée** : Une application utilisant l’**IA** pour apprendre, pratiquer et partager des langues menacées.  
-  * **Fonctionnalités** : Enregistrement des voix de locuteurs natifs, analyse linguistique et apprentissage interactif.  
-  * **Impact** : Sauvegarder le patrimoine linguistique et encourager la diversité culturelle.  
-
+  
 - **🔥 Système de Mesure et Gestion Intelligente des Bouteilles de Gaz**  
-  * **Idée** : Un dispositif connecté mesurant la quantité de gaz restante et envoyant des alertes via **Bluetooth ou Wi-Fi**.  
-  * **Objectif** : Prévenir les pénuries et renforcer la sécurité domestique.  
-
+ 
 - **📡 Apprentissage en cours : Certification Cisco CCNA**  
-  * Développement de compétences en **réseaux et sécurité** pour compléter mes connaissances en développement et en gestion de systèmes.  
+  
 
 - **👯 Toujours partant pour** : Travailler sur des **projets complexes et innovants** en **full-stack, gestion de réseaux, IA, ou domotique**. 🚀💻  
 
