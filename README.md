@@ -47,6 +47,11 @@ Email : benitojunior2022@gmail.com
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
+  
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"
+  />
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=fokojunior&theme=discord&column=6&row=2&margin-w=21&margin-h=6&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
