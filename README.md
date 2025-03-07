@@ -43,6 +43,7 @@ Email : benitojunior2022@gmail.com
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fokojunior&" alt="fokojunior" /></p>
 
-<img src="https://raw.githubusercontent.com/fokojunior/fokojunior/output/snake.svg" alt="Snake animation" />
-
-###
+<img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
