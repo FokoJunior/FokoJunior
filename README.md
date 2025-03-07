@@ -11,8 +11,8 @@
 </p>
 
 - Je suis étudiant en 3e annee génie logiciel, avec une passion pour l’intelligence artificielle. J’aime développer des solutions innovantes qui mêlent technologie et créativité ! 🌐🤖
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fokojunior&label=Profile%20views&color=0e75b6&style=flat" alt="fokojunior" /> </p>
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fokojunior&label=Profile%20views&color=0e75b6&style=flat" alt="fokojunior" /> </p> -->
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=fokojunior&theme=dracula&column=-1&row=1&margin-w=9&margin-h=9&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
