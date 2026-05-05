@@ -4,7 +4,7 @@
   />
 
 **👨‍💻Qui suis-je ?**
-<h1 align="center">👋 Hey, moi c’est Foko Junior ! 😎😎</h1>
+<h1 align="center">👋 Hey, moi c’est Foko Junior !</h1>
 
 <p align="center">
   <a href="https://github.com/fokojunior/fokojunior"><img src="https://readme-typing-svg.herokuapp.com?lines=Etudiant+en+Genie+Logiciel;Developpeur+Web+Full+Stack;Developpeur+mobile;Aspirant%20|%20AI%20|%20ML%20&center=true&width=500&height=50"></a>
